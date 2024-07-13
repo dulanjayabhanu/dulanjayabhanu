@@ -3,6 +3,13 @@
 </div>
 
 <div align="center">
+  
+![](https://komarev.com/ghpvc/?username=dulanjayabhanu&color=brightgreen&base=1000&abbreviated=true&style=flat) ![Followers](https://img.shields.io/github/followers/dulanjayabhanu?label=Followers) ![Stars](https://img.shields.io/github/stars/dulanjayabhanu?label=Stars) ![Stars](https://img.shields.io/badge/Open_source-Hell_Yeah-brightgreen&style=flat)
+</div>
+
+<br/>
+
+<div align="center">
   <span><b>Languages & Tools</b></span>
 </div>
 
