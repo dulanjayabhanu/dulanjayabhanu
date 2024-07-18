@@ -22,3 +22,11 @@
 </p>
 
 <br />
+
+<div align="center">
+  
+![Stats](https://github-readme-stats.vercel.app/api?username=dulanjayabhanu&theme=shadow_green&hide_border=true&count_private=true&title_color=FFFFFF&custom_title=Stats&text_color=34d551)
+![Prime Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dulanjayabhanu&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=FFFFFF&custom_title=Prime%20Languages&text_color=34d551)
+</div>
+
+[![Monthly_contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=dulanjayabhanu&theme=github-compact&area=true&hide_border=true&title_color=FFFFFF&custom_title=Contribution&point=FFFFFF&color=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
