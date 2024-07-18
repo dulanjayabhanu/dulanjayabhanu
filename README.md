@@ -7,6 +7,23 @@
 ![](https://komarev.com/ghpvc/?username=dulanjayabhanu&color=brightgreen&base=1000&abbreviated=true&style=flat) ![Followers](https://img.shields.io/github/followers/dulanjayabhanu?label=Followers) ![Stars](https://img.shields.io/github/stars/dulanjayabhanu?label=Stars) ![Stars](https://img.shields.io/badge/Open_source-Hell_Yeah-brightgreen&style=flat)
 </div>
 
+<div align=center>
+  <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  </picture>
+</div>
+
 <br/>
 
 <div align="center">
@@ -22,3 +39,5 @@
 </p>
 
 [![Monthly_contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=dulanjayabhanu&theme=github-compact&area=true&hide_border=true&title_color=FFFFFF&custom_title=Contribution&point=FFFFFF&color=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/>
