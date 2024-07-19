@@ -10,7 +10,7 @@
 <br/>
 
 <div align="center">
-  <span><b>열려 있는 깃허브 스타일&nbsp; :shipit: &nbsp;Oppan GitHub Style</b></span>
+  <span><b>열려 있는 깃허브 스타일&nbsp; :octocat: &nbsp;Oppan GitHub Style</b></span>
 </div>
 
 <br/>
