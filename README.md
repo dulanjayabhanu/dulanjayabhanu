@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <p><img align="center" src="https://octodex.github.com/images/gangnamtocat.png" alt="Dulanjaya Bhanu Summary" width="25%" /></p>
+  <p><img align="center" src="https://octodex.github.com/images/gangnamtocat.png" alt="Dulanjaya Bhanu Summary" width="30%" /></p>
 </div>
 
 <br/>
