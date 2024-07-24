@@ -33,6 +33,6 @@
   </a>
 </p>
 
-[![Monthly_contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=dulanjayabhanu&theme=github-compact&area=true&hide_border=true&title_color=FFFFFF&custom_title=Contribution&point=FFFFFF&color=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Monthly_contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=dulanjayabhanu&theme=github-compact&area=true&hide_border=true&title_color=FFFFFF&custom_title=Contribution&point=FFFFFF&color=FFFFFF)](https://github.com/dulanjayabhanu?tab=repositories)
 
 <br/>
