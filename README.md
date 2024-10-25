@@ -28,7 +28,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/dulanjayabhanu?tab=repositories">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,materialui,javascript,sass,php,mysql,jquery,typescript,react,npm,mongodb,nodejs,git,github,java,hibernate,gcp,linux,ubuntu,bash,cloudflare,postman,netlify,wordpress,python,blender,arduino,vscode,idea,androidstudio,pycharm,photoshop,au,ai,pr" />
   </a>
 </p>
