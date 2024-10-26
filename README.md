@@ -34,7 +34,7 @@
 </p>
 
 <div align="center">
-  <span><b>기여&nbsp; :octocat: &nbsp;Contribution</b></span>
+  <span><b>월간 기여&nbsp; :octocat: &nbsp;Monthly Contribution</b></span>
 </div>
 
 [![Contribution](https://github-readme-activity-graph.vercel.app/graph?username=dulanjayabhanu&theme=github-compact&area=true&hide_border=true&title_color=FFFFFF&hide_title=true&point=FFFFFF&color=FFFFFF&height=500)](https://github.com/dulanjayabhanu?tab=repositories)
