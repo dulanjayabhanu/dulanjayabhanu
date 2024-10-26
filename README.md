@@ -22,7 +22,7 @@
 <br/>
 
 <div align="center">
-  <span><b>Languages & Tools</b></span>
+  <span><b>언어 및 도구&nbsp; :octocat: &nbsp;Languages & Tools</b></span>
 </div>
 
 <br/>
@@ -33,6 +33,10 @@
   </a>
 </p>
 
-[![Monthly_contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=dulanjayabhanu&theme=github-compact&area=true&hide_border=true&title_color=FFFFFF&custom_title=Contribution&point=FFFFFF&color=FFFFFF)](https://github.com/dulanjayabhanu?tab=repositories)
+<div align="center">
+  <span><b>기여&nbsp; :octocat: &nbsp;Contribution</b></span>
+</div>
+
+[![Contribution](https://github-readme-activity-graph.vercel.app/graph?username=dulanjayabhanu&theme=github-compact&area=true&hide_border=true&title_color=FFFFFF&hide_title=true&point=FFFFFF&color=FFFFFF&height=500)](https://github.com/dulanjayabhanu?tab=repositories)
 
 <br/>
