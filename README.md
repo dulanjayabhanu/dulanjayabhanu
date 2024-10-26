@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://github.com/dulanjayabhanu?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,materialui,javascript,sass,php,mysql,jquery,typescript,react,npm,mongodb,nodejs,git,github,java,hibernate,gcp,linux,ubuntu,bash,cloudflare,postman,netlify,wordpress,python,blender,arduino,vscode,idea,androidstudio,pycharm,photoshop,au,ai,pr" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,materialui,tailwind,sass,javascript,php,mysql,jquery,typescript,react,npm,maven,mongodb,nodejs,git,github,gitlab,java,hibernate,gcp,linux,ubuntu,bash,powershell,cloudflare,postman,netlify,vercel,wordpress,python,blender,arduino,notion,vscode,idea,androidstudio,pycharm,visualstudio,photoshop,ai,figma,pr,au,payara" />
   </a>
 </p>
 
