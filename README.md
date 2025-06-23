@@ -27,16 +27,8 @@
 
 <br/>
 
-<p align="center">
-  <a href="https://github.com/dulanjayabhanu?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,materialui,tailwind,sass,php,mysql,jquery,typescript,react,npm,maven,mongodb,nodejs,git,github,gitlab,java,hibernate,gcp,firebase,linux,ubuntu,bash,powershell,cloudflare,postman,netlify,wordpress,python,blender,arduino,sqlite,notion,vscode,idea,androidstudio,pycharm,visualstudio,photoshop,ai,figma,pr" />
-  </a>
-</p>
-
 <div align="center">
-  <span><b>월간 기여&nbsp; :octocat: &nbsp;Monthly Contribution</b></span>
+  <a href="https://github.com/dulanjayabhanu?tab=repositories">
+    <img src="assets/dulanjaya_skill_and_tool_icon_set.svg" alt="Dulanjya Bhanu skill and tool icon set"/>
+  </a>
 </div>
-
-[![Contribution](https://github-readme-activity-graph.vercel.app/graph?username=dulanjayabhanu&theme=github-compact&area=true&hide_border=true&title_color=FFFFFF&hide_title=true&point=FFFFFF&color=FFFFFF&height=500)](https://github.com/dulanjayabhanu?tab=repositories)
-
-<br/>
