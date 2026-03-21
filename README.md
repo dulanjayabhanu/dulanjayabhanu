@@ -1,34 +1,58 @@
+## Hi, I'm Dulanjaya
+
+I’m a Software Engineer focused on building production-grade applications using modern backend, cloud, and full-stack technologies.
+
+### ✦ What I Do
+
+* Design and develop scalable backend systems
+* Build full-stack applications with real-world use cases
+* Apply production grade practices such as clean architecture, versioning, and deployment
+* Continuously explore cloud and modern engineering ecosystems
+
+### ✦ Engineering Approach
+
+Most of my projects are driven by a simple principle:
+
+<a href="https://github.com/dulanjayabhanu?tab=repositories">
+  <img src="docs/images/engineering-approach-chart.svg" alt="Engineering approach chart" />
+</a>
+
+### ✦ Problem Driven Solutions
+
 <div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dulanjayabhanu&hide_border=true&theme=github_dark&card_width=1000" alt="Dulanjaya Bhanu Summary" /></p>
+    <a href="https://github.com/dulanjayabhanu/MediNote"><img src="docs/images/repo-card-1.webp" alt="MediNote repo card" width="24%" /></a><a href="https://github.com/dulanjayabhanu/screenpath"><img src="docs/images/repo-card-2.webp" alt="ScreenPath repo card" width="24%" /></a><a href="https://github.com/dulanjayabhanu/github-connection-visualizer"><img src="docs/images/repo-card-3.webp" alt="GithubConnectionVisualizer repo card" width="24%" /></a>
 </div>
+
+### ✦ Technologies and Tools
+
+<div align="center">
+    <a href="#">
+        <img src="docs/images/technology-and-tools.webp" alt="Engineering Chart" />
+    </a>
+</div>
+
+### ✦ Current Focus
+
+* Advancing into enterprise-level backend engineering
+* Exploring cloud engineering & deployment strategies
+* Strengthening system design and scalability patterns
+
+### ✦ Connect With Me
+
+* [Twitter](https://twitter.com/DulanjayaBhanu)
+* [Email](mailto:dulanjayawebs@gmail.com)
+
+<br>
+
+<div align="center">
+    <a href="https://github.com/dulanjayabhanuai">
+        <img src="docs/images/ai-account-poster.webp" alt="Engineering Chart" width="520"/>
+    </a>
+</div>
+
+<br>
 
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=dulanjayabhanu&color=brightgreen&abbreviated=true&style=flat) ![Followers](https://img.shields.io/github/followers/dulanjayabhanu?label=Followers) ![Stars](https://img.shields.io/github/stars/dulanjayabhanu?label=Stars) ![Stars](https://img.shields.io/badge/Open_source-Hell_Yeah-brightgreen&style=flat) ![Code Time](http://img.shields.io/badge/Code%20Time-310%20hrs%2054%20mins-brightgreen) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-</div>
-
-<br/>
-
-<div align="center">
-  <span><b>열려 있는 깃허브 스타일&nbsp; :octocat: &nbsp;Oppan GitHub Style</b></span>
-</div>
-
-<br/>
-
-<div align="center">
-  <p><img align="center" src="https://octodex.github.com/images/gangnamtocat.png" alt="Dulanjaya Bhanu Summary" width="34%" /></p>
-</div>
-
-<br/>
-
-<div align="center">
-  <span><b>언어 및 도구&nbsp; :octocat: &nbsp;Languages & Tools</b></span>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/dulanjayabhanu?tab=repositories">
-    <img src="assets/dulanjaya_skill_and_tool_icon_set.svg" alt="Dulanjya Bhanu skill and tool icon set"/>
-  </a>
+  ![](https://komarev.com/ghpvc/?username=dulanjayabhanu&color=161b22&abbreviated=true&style=flat) ![Followers](https://img.shields.io/github/followers/dulanjayabhanu?label=Followers) ![Stars](https://img.shields.io/github/stars/dulanjayabhanu?label=Stars)
 </div>
