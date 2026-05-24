@@ -20,7 +20,7 @@ Most of my projects are driven by a simple principle:
 ### ✦ Problem Driven Solutions
 
 <div align="center">
-    <a href="https://github.com/dulanjayabhanu/MediNote"><img src="docs/images/repo-card-1.webp" alt="MediNote repo card" width="24%" /></a><a href="https://github.com/dulanjayabhanu/screenpath"><img src="docs/images/repo-card-2.webp" alt="ScreenPath repo card" width="24%" /></a><a href="https://github.com/dulanjayabhanu/github-connection-visualizer"><img src="docs/images/repo-card-3.webp" alt="GithubConnectionVisualizer repo card" width="24%" /></a>
+    <a href="https://github.com/dulanjayabhanu/mononeural"><img src="docs/images/repo-card-4.webp" alt="MonoNeural repo card" width="24%" /></a><a href="https://github.com/dulanjayabhanu/MediNote"><img src="docs/images/repo-card-1.webp" alt="MediNote repo card" width="24%" /></a><a href="https://github.com/dulanjayabhanu/screenpath"><img src="docs/images/repo-card-2.webp" alt="ScreenPath repo card" width="24%" /></a><a href="https://github.com/dulanjayabhanu/github-connection-visualizer"><img src="docs/images/repo-card-3.webp" alt="GithubConnectionVisualizer repo card" width="24%" /></a>
 </div>
 
 ### ✦ Technologies and Tools
