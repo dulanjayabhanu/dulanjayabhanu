@@ -14,13 +14,13 @@ I’m a Software Engineer focused on building production-grade applications usin
 Most of my projects are driven by a simple principle:
 
 <a href="https://github.com/dulanjayabhanu?tab=repositories">
-  <img src="docs/images/engineering-approach-chart.svg" alt="Engineering approach chart" />
+  <img src="docs/images/engineering-approach-chart.webp" alt="Engineering approach chart" />
 </a>
 
 ### ✦ Problem Driven Solutions
 
 <div align="center">
-    <a href="https://github.com/dulanjayabhanu/mononeural"><img src="docs/images/repo-card-4.webp" alt="MonoNeural repo card" width="24%" /></a><a href="https://github.com/dulanjayabhanu/MediNote"><img src="docs/images/repo-card-1.webp" alt="MediNote repo card" width="24%" /></a><a href="https://github.com/dulanjayabhanu/screenpath"><img src="docs/images/repo-card-2.webp" alt="ScreenPath repo card" width="24%" /></a><a href="https://github.com/dulanjayabhanu/github-connection-visualizer"><img src="docs/images/repo-card-3.webp" alt="GithubConnectionVisualizer repo card" width="24%" /></a>
+    <a href="https://github.com/dulanjayabhanu/mononeural"><img src="docs/images/repo-card-1.webp" alt="MonoNeural repo card" width="49%" /></a><a href="https://github.com/dulanjayabhanu/MediNote"><img src="docs/images/repo-card-2.webp" alt="MediNote repo card" width="49%" /></a><a href="https://github.com/dulanjayabhanu/screenpath"><img src="docs/images/repo-card-3.webp" alt="ScreenPath repo card" width="49%" /></a><a href="https://github.com/dulanjayabhanu/github-connection-visualizer"><img src="docs/images/repo-card-4.webp" alt="GithubConnectionVisualizer repo card" width="49%" /></a><a href="https://github.com/dulanjayabhanu/Meli"><img src="docs/images/repo-card-5.webp" alt="Meli repo card" width="49%" /></a><a href="https://github.com/dulanjayabhanu/Postify-Smart-Mail-Box-System-Showcase"><img src="docs/images/repo-card-6.webp" alt="Postify Smart Mail Box System Showcase repo card" width="49%" /></a>
 </div>
 
 ### ✦ Technologies and Tools
